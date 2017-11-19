@@ -1,5 +1,5 @@
 // colorgame.js
-// created by Kearney, Billt 2017 for web dev bootcamp
+// created by Billt Kearney 2017 for web dev bootcamp
 // alert("connected!")
 var numSquares = 9;
 var colors = [];
